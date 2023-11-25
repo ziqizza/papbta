@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<shape xmlns:android="http://schemas.android.com/apk/res/android">
+    <!-- No solid fill, only stroke -->
+    <solid android:color="@android:color/transparent"/> <!-- Set transparent solid fill -->
+    <corners android:radius="10dp"/> <!-- Adjust the radius to control the corner roundness -->
+    <stroke
+        android:color="@color/colorWhite"
+        android:width="1dp"/> <!-- Set the stroke color and width -->
+</shape>
